@@ -1,27 +1,32 @@
 [
     {
-        "name": "gemma34B",
-        "filename": "gemma34B.txt",
-        "path": "texts/gemma34B.txt"
+        "name": "DeepSeekV3",
+        "filename": "DeepSeekV3.txt",
+        "path": "texts/DeepSeekV3.txt"
     },
     {
-        "name": "gptOss20B",
-        "filename": "gptOss20B.txt",
-        "path": "texts/gptOss20B.txt"
+        "name": "GrokWeb",
+        "filename": "GrokWeb.txt",
+        "path": "texts/GrokWeb.txt"
     },
     {
-        "name": "gpt4web",
-        "filename": "gpt4web.txt",
-        "path": "texts/gpt4web.txt"
+        "name": "MistralWeb",
+        "filename": "MistralWeb.txt",
+        "path": "texts/MistralWeb.txt"
     },
     {
-        "name": "gpt",
-        "filename": "gpt.txt",
-        "path": "texts/gpt.txt"
+        "name": "Qwen3-Max",
+        "filename": "Qwen3-Max.txt",
+        "path": "texts/Qwen3-Max.txt"
     },
     {
-        "name": "deepSeek",
-        "filename": "deepSeek.txt",
-        "path": "texts/deepSeek.txt"
+        "name": "ChatGPT5",
+        "filename": "ChatGPT5.txt",
+        "path": "texts/ChatGPT5.txt"
+    },
+    {
+        "name": "Gemini25flash",
+        "filename": "Gemini25flash.txt",
+        "path": "texts/Gemini25flash.txt"
     }
 ]
