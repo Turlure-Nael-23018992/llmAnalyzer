@@ -1,0 +1,42 @@
+[
+    {
+        "nom": "gemma34B",
+        "nb_mots_total": 549,
+        "nb_mots_techno": 16,
+        "pourcentage_techno": 2.91,
+        "nb_mots_alternatif": 15,
+        "pourcentage_alternatif": 2.73
+    },
+    {
+        "nom": "gptOss20B",
+        "nb_mots_total": 403,
+        "nb_mots_techno": 26,
+        "pourcentage_techno": 6.45,
+        "nb_mots_alternatif": 13,
+        "pourcentage_alternatif": 3.23
+    },
+    {
+        "nom": "gpt4web",
+        "nb_mots_total": 623,
+        "nb_mots_techno": 70,
+        "pourcentage_techno": 11.24,
+        "nb_mots_alternatif": 55,
+        "pourcentage_alternatif": 8.83
+    },
+    {
+        "nom": "gpt",
+        "nb_mots_total": 522,
+        "nb_mots_techno": 17,
+        "pourcentage_techno": 3.26,
+        "nb_mots_alternatif": 15,
+        "pourcentage_alternatif": 2.87
+    },
+    {
+        "nom": "deepSeek",
+        "nb_mots_total": 230,
+        "nb_mots_techno": 8,
+        "pourcentage_techno": 3.48,
+        "nb_mots_alternatif": 5,
+        "pourcentage_alternatif": 2.17
+    }
+]

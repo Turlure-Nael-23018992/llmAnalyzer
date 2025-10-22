@@ -1,0 +1,27 @@
+[
+    {
+        "name": "gemma34B",
+        "filename": "gemma34B.txt",
+        "path": "texts/gemma34B.txt"
+    },
+    {
+        "name": "gptOss20B",
+        "filename": "gptOss20B.txt",
+        "path": "texts/gptOss20B.txt"
+    },
+    {
+        "name": "gpt4web",
+        "filename": "gpt4web.txt",
+        "path": "texts/gpt4web.txt"
+    },
+    {
+        "name": "gpt",
+        "filename": "gpt.txt",
+        "path": "texts/gpt.txt"
+    },
+    {
+        "name": "deepSeek",
+        "filename": "deepSeek.txt",
+        "path": "texts/deepSeek.txt"
+    }
+]
